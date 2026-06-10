@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MedVision - Ignorar dados locais e modelos pesados
+data/
+models/*.pth
