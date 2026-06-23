@@ -219,4 +219,6 @@ __marimo__/
 
 # MedVision - Ignorar dados locais e modelos pesados
 data/
+!data/.gitkeep
 models/*.pth
+!models/.gitkeep
